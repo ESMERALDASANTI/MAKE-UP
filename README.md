@@ -1,5 +1,5 @@
-# BARBIE
-<!DOCTYPE html>
+# MAKEUP
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@
 </head>
 <body>
 
-    <h1>Makeup World 💄</h1>
+    <h1>Makeup World </h1>
 
     <div class="container">
         <div class="section">
