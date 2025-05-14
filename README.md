@@ -41,7 +41,8 @@
         <div class="section">
             <h2> Origin of Makeup  </h2>
             <p>Makeup has existed since ancient times. Civilizations like the Egyptians used kohl to line their eyes, and the Romans employed natural pigments. Today, makeup is a form of art and personal expression.</p>
-            <img src="https://www.bing.com/images/search?view=detailV2&ccid=LR077uOh&id=139F6AD2C010B787B255B24A73EF847B78ACA9B6&thid=OIP.LR077uOh3LgQo7bJJO1klwHaEK&mediaurl=https%3a%2f%2fwww.grunge.com%2fimg%2fgallery%2fthe-history-of-makeup-in-ancient-egypt-explained%2fl-intro-1639764071.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d1d3beee3a1dcb810a3b6c924ed6497%3frik%3dtqmseHuE73NKsg%26pid%3dImgRaw%26r%3d0&exph=900&expw=1600&q=MAKE+UP+ANTIGUO&simid=608055318824703496&FORM=IRPRST&ck=79F1077C69B9DB07825D13DD373DD2B1&selectedIndex=2&itb=0">
+            <img src="mi-imagen.jpg" alt="https://www.bing.com/images/search?view=detailV2&ccid=yzm3NLmm&id=D760ED1BACE309E04D90B6E3A90B36C98EB70DE6&thid=OIP.yzm3NLmmCPFW7g9KYMRihAHaE8&mediaurl=https%3a%2f%2fwww.azureazure.com%2fwp-content%2fuploads%2f2019%2f10%2fFashion-History-of-Makeup-Article01.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb39b734b9a608f156ee0f4a60c46284%3frik%3d5g23jsk2C6njtg%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d800%26srw%3d1200&exph=500&expw=750&q=maquillaje+en+la+antigua+grecia&simid=608051552111254826&FORM=IRPRST&ck=A5BA4FDFF3DB427F12C202BE928DB381&selectedIndex=22&itb=0">
+
         </div>
 
         <div class="section">
@@ -54,14 +55,15 @@
                 <li>Fenty Beauty</li>
                 <li>Charlotte Tilbury</li>
             </ul>
-            <img src="https://www.bing.com/images/search?view=detailV2&ccid=OhVvEGj7&id=25E04A4905796F04596193B2F6CBDA64E34A115B&thid=OIP.OhVvEGj7i-0rYDxfCw6ZKAHaE9&mediaurl=https%3a%2f%2fwww.somosmamas.com.ar%2fwp-content%2fuploads%2f2020%2f11%2fmaquillaje-chanel-los-mejores.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3a156f1068fb8bed2b603c5f0b0e9928%3frik%3dWxFK42Tay%252faykw%26pid%3dImgRaw%26r%3d0&exph=857&expw=1280&q=MAKE+UP+MARCAS+FAMOSAS&simid=607986556410268967&FORM=IRPRST&ck=DB083CAEE0F8EB17576C9599CB4B681C&selectedIndex=6&itb=0">
+            <img src="mi-imagen.jpg" alt="https://www.bing.com/images/search?view=detailV2&ccid=MDI0lzBu&id=A12E7EF9F07612A64A678850113AE0216CE526C3&thid=OIP.MDI0lzBuv8pUqR6NvBVtOgHaEA&mediaurl=https%3a%2f%2fcursosdemaquillaje.com.co%2fwp-content%2fuploads%2fmarcas-de-maquillaje-1-1024x555.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.30323497306ebfca54a91e8dbc156d3a%3frik%3dwyblbCHgOhFQiA%26pid%3dImgRaw%26r%3d0&exph=555&expw=1024&q=maquillaje+marcas&simid=608019099361114211&FORM=IRPRST&ck=62E209C3C93846699BF2AA8C836D4320&selectedIndex=15&itb=0">
+
         </div>
 
         <div class="section">
             <h2> Interesting Fact</h2>
             <p>Did you know that the first commercial lipstick was created in 1884 in Paris? And that modern highlighter was inspired by the 'strobing' technique used by celebrity makeup artists.</p>
-            <img src="https://www.bing.com/images/search?view=detailV2&ccid=D2eSzNkh&id=411980327E49AEE58F95BC7BEAECC2AE1BE95C34&thid=OIP.D2eSzNkhLx4WUkzOyZm8yAHaE8&mediaurl=https%3a%2f%2flh4.googleusercontent.com%2fWof9NyTmfv-wJO-ZpDv8yidNsU3Vfa3zdIFioddtoX5Pv9NLGtU8jRlyWQvkfK8InOEH8lH_osC5fJksE_J3iVSTrQpGbKJvIwlfZ69_AK_x5PK_42tICDKJHllyGIs8dUd_7IZy%3ds0&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0f6792ccd9212f1e16524ccec999bcc8%3frik%3dNFzpG67C7Op7vA%26pid%3dImgRaw%26r%3d0&exph=1366&expw=2048&q=DATOS+CURIOSOS+DEL+MAQUILLAJE&simid=607999664600856889&FORM=IRPRST&ck=99C76CE1C9685AFFE5E16A2A5C54B716&selectedIndex=65&itb=0">
-        </div>
+            <img src="mi-imagen.jpg" alt="(https://www.bing.com/images/search?view=detailV2&ccid=5KUnjUM4&id=B59A3CB28CF5BB150FE6DC944F0E19749A34FE61&thid=OIP.5KUnjUM4VY8W_GZAnNaoGAHaE8&mediaurl=https%3a%2f%2fcuriosfera-historia.com%2fwp-content%2fuploads%2frese%c3%b1a-hist%c3%b3rica-lapiz-labial.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e4a5278d4338558f16fc66409cd6a818%3frik%3dYf40mnQZDk%252bU3A%26pid%3dImgRaw%26r%3d0&exph=400&expw=600&q=primer+labial+en+paris&simid=608021040690315903&FORM=IRPRST&ck=ACFE05BDD0D34F5512D41ED22EA25D32&selectedIndex=30&itb=0)">
+</div>
     </div>
 
 </body>
