@@ -38,7 +38,7 @@
     <h1>Makeup World 💄</h1>
 
     <div class="container">
-        <div class="section">
+        <div class="section">N
             <h2> Origin of Makeup  </h2>
             <p>Makeup has existed since ancient times. Civilizations like the Egyptians used kohl to line their eyes, and the Romans employed natural pigments. Today, makeup is a form of art and personal expression.</p>
             <img src="mi-imagen.jpg" alt="https://www.bing.com/images/search?view=detailV2&ccid=yzm3NLmm&id=D760ED1BACE309E04D90B6E3A90B36C98EB70DE6&thid=OIP.yzm3NLmmCPFW7g9KYMRihAHaE8&mediaurl=https%3a%2f%2fwww.azureazure.com%2fwp-content%2fuploads%2f2019%2f10%2fFashion-History-of-Makeup-Article01.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb39b734b9a608f156ee0f4a60c46284%3frik%3d5g23jsk2C6njtg%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d800%26srw%3d1200&exph=500&expw=750&q=maquillaje+en+la+antigua+grecia&simid=608051552111254826&FORM=IRPRST&ck=A5BA4FDFF3DB427F12C202BE928DB381&selectedIndex=22&itb=0">
